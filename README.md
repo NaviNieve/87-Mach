@@ -9,7 +9,7 @@ First Moon I have made, it is another snowy/foggy cheaper moon map.
 **FAUNA:** *Dangerous entities have been rumored to take residence in the vast network of tunnels.* <br>
 
 ## Feedback and Bugs: 
-<Discord>
+https://github.com/NaviNieve/87-Mach
 
 ## Notes:
 Still balancing, currently the balance is between Titan and Rend. Price is 250 but might be more in the future.
